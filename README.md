@@ -8,7 +8,9 @@ En esta práctica vamos a crear una red en Virtual Box para conectar en ellas la
 
 Para crear la red, lo primero que vamos a hacer es irnos a preferencias y en el apartado Red crearemos una Red NAT, para conectar las distintas máquinas virtuales.
 
-![](img/img01)
+![](img/img01.PNG)
+
+
 
 
 
