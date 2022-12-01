@@ -28,7 +28,7 @@ Para configurar la máquina pulsaremos sobre ella y el boton configuración en e
 
 Una vez configurada procederemos a iniciarla, una vez se ha iniciado abriremos una pantalla de comandos y observaremos si se ha hecho correctamente.
 
-![](C:\Users\roman\RedVirtual\img\img04.PNG)
+![](img/img04.PNG)
 
 Como se  puede observar en la imagen la red se ha configurado de manera correcta, esta en concreto tiene la dirección ip 192.168.6.4, la puerta de enlace es 192.168.6.1, despues de esto hemos hecho ping a una pagina web para comprobar que hay salida a internet y como se puede ver la cpnexión se ealiza de forma satisfactoria.
 
@@ -75,6 +75,8 @@ Como podemos ver esta máquina tiene salida a internet, probamos a intentar hace
 ![](img/img13.PNG)
 
 Desde windows 10 vemos que si se puede hacer ping a la máquina CentOS cosa que con el server no podia .
+
+Ingresamos a firewall de windows y habilitamos la opción de compartir datos en impresoras y dispositivos y ya hace ping entre todas las máquinas.
 
 ## Diagrama
 
